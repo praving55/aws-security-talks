@@ -1,6 +1,6 @@
-| Name                                                                               | URL                                         |
-|------------------------------------------------------------------------------------|---------------------------------------------|
-| (SEC406) NEW LAUNCH: Secure   Applications with AWS Key Management Service         | https://www.youtube.com/watch?v=0kWpm1FyG_Q |
+| Name                                                                                     | URL                                              |
+|------------------------------------------------------------------------------------------|--------------------------------------------------|
+| (SEC406) NEW LAUNCH: Secure   Applications with AWS Key Management Service               | https://www.youtube.com/watch?v=0kWpm1FyG_Q      |
 | (SEC314)   Customer Perspectives on Implementing Security Controls with AWS        | https://www.youtube.com/watch?v=E4bGk5WCtUU |
 | (SEC309) Amazon VPC   Configuration: When Least Privilege Meets the Tester         | https://www.youtube.com/watch?v=kBCbz7L52-Q |
 | (SEC403)   Building AWS Partner Applications Using IAM Roles                       | https://www.youtube.com/watch?v=JbmJ4BSpNqE |
