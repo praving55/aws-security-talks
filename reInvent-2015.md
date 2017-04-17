@@ -1,0 +1,31 @@
+| Name                                                                              | URL                                         |
+|-----------------------------------------------------------------------------------|---------------------------------------------|
+| (SEC313) Security and Compliance   at the Petabyte Scale                          | https://www.youtube.com/watch?v=hRQgpQMzwTI |
+| (SEC308)   Wrangling Security Events in The Cloud                                 | https://www.youtube.com/watch?v=uc1Q0XCcCv4 |
+| (SEC323) NEW LAUNCH! Securing   Web Applications with AWS WAF                     | https://www.youtube.com/watch?v=yWSn5E6WQug |
+| (SEC201)   How Should We All Think About Security?                                | https://www.youtube.com/watch?v=fCH4r3s4THQ |
+| (SEC310) Keeping Developers and   Auditors Happy in the Cloud                     | https://www.youtube.com/watch?v=Io00_K4v12Y |
+| (SEC202)   Best Practices for Securely Leveraging the Cloud                       | https://www.youtube.com/watch?v=Rh92FgMGBYc |
+| (SEC203) Journey to Securing   Time Inc's Move to the Cloud                       | https://www.youtube.com/watch?v=lfhhXnFizRU |
+| (SEC204)   AWS GovCloud (US): Not Just for Govies                                 | https://www.youtube.com/watch?v=PmmdNwzrbgw |
+| (SEC205) Learn How to Hackproof   Your Cloud Using Native AWS Tools               | https://www.youtube.com/watch?v=1ERy_YomoYk |
+| (SEC301)   Strategies for Protecting Data Using Encryption in AWS                 | https://www.youtube.com/watch?v=On9NoUwj-Os |
+| (SEC302) IAM Best Practices to   Live By                                          | https://www.youtube.com/watch?v=_wiGpBQGCjU |
+| (SEC304)   Architecting for HIPAA Compliance on AWS                               | https://www.youtube.com/watch?v=g4XI4IIYVrw |
+| (SEC305) How to Become an IAM   Policy Ninja in 60 Minutes or Less                | https://www.youtube.com/watch?v=Du478i9O_mc |
+| (SEC306)   Defending Against DDoS Attacks                                         | https://www.youtube.com/watch?v=Ys0gG1koqJA |
+| (SEC307) A Progressive Journey   Through AWS IAM Federation Options               | https://www.youtube.com/watch?v=-XARG9W2bGc |
+| (SEC312)   Reliable Design and Deployment of Security and Compliance              | https://www.youtube.com/watch?v=KtMANvC7_n8 |
+| (SEC315) AWS Directory Service   Deep Dive                                        | https://www.youtube.com/watch?v=CY-xvo8Cc54 |
+| (SEC316)   Harden Your Architecture w/ Security Incident Response Simulations     | https://www.youtube.com/watch?v=u-mRU44Q5u4 |
+| (SEC318) AWS CloudTrail Deep   Dive                                               | https://www.youtube.com/watch?v=t0e-mz_I2OU |
+| (SEC320)   Leveraging the Power of AWS to Automate Security & Compliance          | https://www.youtube.com/watch?v=rOhT6zuSGOE |
+| (SEC321) Implementing Policy                                                      | https://www.youtube.com/watch?v=8kBNbeN4tnQ |
+| (SEC324)   New! Introducing Amazon Inspector                                      | https://www.youtube.com/watch?v=HjuEtMrWc_w |
+| (SEC325) Satisfy PCI Obligations   While Continuing to Innovate                   | https://www.youtube.com/watch?v=sRs-K_z7BKc |
+| (SEC326)   Security Science Using Big Data                                        | https://www.youtube.com/watch?v=kE-5MzWlU7U |
+| (SEC401) Encryption Key Storage   with AWS KMS at Okta                            | https://www.youtube.com/watch?v=pi4HTSrmzis |
+| (SEC402)   Enterprise Cloud Security via DevSecOps 2.0                            | https://www.youtube.com/watch?v=fqjwlKKA-V4 |
+| (SEC403) Diving into AWS   CloudTrail Events w/Apache Spark on EMR                | https://www.youtube.com/watch?v=oZ8HswQSbNQ |
+| (SEC303)   Architecting for End-to-End Security in the Enterprise                 | https://www.youtube.com/watch?v=nqaL5zJqFuo |
+| (SEC314-R) New! AWS Config   Rules: Improve Governance Over Configuration Changes | https://www.youtube.com/watch?v=sGUQFEZWkho |
